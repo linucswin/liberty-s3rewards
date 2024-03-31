@@ -60,3 +60,22 @@ title: Liberty Pass Season 3 Rewards
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_tcs_ticket.png" alt="Vehicle Traction Control Ticket" width="55" label="Vehicle Traction Control Ticket" /><br>Vehicle Traction Control Ticket | **-**  | **x1**  | **x1**  |
 | <Image src="https://i.imgur.com/MDDXc2A.png" alt="Vehicle Slot" width="55" label="Vehicle Slot" /><br>Vehicle Slot | **-**  | **x1**  | **x1**  |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_871327565.png" alt="Dinka NSX" width="100" label="Dinka NSX" /><br>Dinka NSX | **-**  | **x1**  | **x1**  |
+
+
+# Bonus Quests
+
+::: success Aici le explici ca sunt 2 questuri bonus, in unu trb sa faci "asta" in altul "asta" si primesti urmatoarele recompense 
+
+### 1th Quest Rewards
+
+
+| Pistol .50 | 9mm Ammo |
+| :---: | :---: |
+| <Image src="https://i.imgur.com/D1DTAiO.png" alt="Pistol .50" width="55" label="Pistol .50" /><br>**x1** | <Image src="https://ucp.liberty.mp/assets/images/inventory/ammo/9mm.png" alt="9mm Ammo" width="55" label="9mm Ammo" /><br>**x2.000** |
+
+### 2nd Quest Rewards
+
+| Hotring Sabre | Badge |
+| :---: | :---: |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_1115909093.png" alt="Hotring Sabre" width="100" label="Hotring Sabre" /><br> | <Image src="https://ucp.liberty.mp/assets/images/profile/badges/battlepass.png" alt="Badge" width="55" label="Badge" /><br> |
+
