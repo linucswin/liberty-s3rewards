@@ -75,3 +75,4 @@ Din cele 2 questuri bonus, ve-ti mai putea primi urmatoarele chestii:
 | :---: | :---: |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_1115909093.png" alt="Hotring Sabre" width="100" label="Hotring Sabre" /><br> | <Image src="https://ucp.liberty.mp/assets/images/profile/badges/battlepass.png" alt="Badge" width="55" label="Badge" /><br> |
 
+made by linux1337 & nightmare
