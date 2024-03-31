@@ -1,7 +1,3 @@
----
-title: Liberty Pass Season 3 Rewards
----
-
 # Liberty Pass Season 3 Rewards
 
 | Item | Standard | Premium | Total |
@@ -64,7 +60,7 @@ title: Liberty Pass Season 3 Rewards
 
 # Bonus Quests
 
-::: success Aici le explici ca sunt 2 questuri bonus, in unu trb sa faci "asta" in altul "asta" si primesti urmatoarele recompense 
+Din cele 2 questuri bonus, ve-ti mai putea primi urmatoarele chestii:
 
 ### 1th Quest Rewards
 
